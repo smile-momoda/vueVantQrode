@@ -1,0 +1,44 @@
+/* html {
+    font-size : 20px;
+}
+@media only screen and (min-width: 401px){
+    html {
+        font-size: 25px !important;
+    }
+}
+@media only screen and (min-width: 428px){
+    html {
+        font-size: 26.75px !important;
+    }
+}
+@media only screen and (min-width: 481px){
+    html {
+        font-size: 30px !important;
+    }
+}
+@media only screen and (min-width: 569px){
+    html {
+        font-size: 35px !important;
+    }
+}
+@media only screen and (min-width: 641px){
+    html {
+        font-size: 40px !important;
+    }
+} */
+.van-nav-bar {
+	background-color: #1abc9c !important;
+}
+.van-nav-bar__title {
+	color: white !important;
+}
+.van-button--primary {
+	background: #66af55 !important;
+	border: none !important;
+}
+.van-nav-bar__text {
+	color: white!important;
+}
+.van-nav-bar .van-icon {
+	color: white!important;
+}
